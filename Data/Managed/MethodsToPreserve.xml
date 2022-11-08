@@ -1,0 +1,21 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ApparelManager">
+			<method name="OnChooseMenu"/>
+			<method name="OnChooseMenu"/>
+		</type>
+		<type fullname="GameManager">
+			<method name="StartGame"/>
+		</type>
+		<type fullname="Master">
+			<method name="JumpInput"/>
+		</type>
+		<type fullname="PaginationItem">
+			<method name="OnToggleValueChanged"/>
+			<method name="OnToggleValueChanged"/>
+			<method name="OnToggleValueChanged"/>
+			<method name="OnToggleValueChanged"/>
+			<method name="OnToggleValueChanged"/>
+		</type>
+	</assembly>
+</linker>
